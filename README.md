@@ -20,7 +20,7 @@ A few observations noted from the Ride-Sharing Summary Database image:
 
 ## Summary: 
 Business Recommendations based on our multiple-line chart "Total Fare by City Type": 
-* Noting the clear success rate within Urban city data, I believe it would be safe judgement to explore new ideas & continue to invest in improving services provided within this area. This can be especially lucrative considering   
+* Noting the clear success rate within Urban city data, I believe it would be safe judgement to explore new ideas & continue to invest in improving services provided within this area. This can be especially lucrative considering the popularity of this service based off of ride count data. 
 
 * Take a closer, more detailed analysis of the Suburban data. Identify factors that contribute to extreme lows in numbers, like time periods between Januray - February & February - March. 
 
