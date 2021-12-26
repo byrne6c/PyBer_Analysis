@@ -24,4 +24,4 @@ Business Recommendations based on our multiple-line chart "Total Fare by City Ty
 
 * Take a closer, more detailed analysis of the Suburban data. Identify factors that contribute to extreme lows in numbers, like time periods between Januray - February & February - March. 
 
-* To honor the intent of improving access & affordability to ride sharing services, definitly take advantage of survery services. Provide insentives for users to share feedback from all city areas. We can best assess how to maximize our gains & cut down on losses, as well as discover unknown determining factors like public/personal transport compared to Pyber services. 
+* To honor the intent of improving access & affordability to ride sharing services, definitly take advantage of survery services. Provide incentives for users to share feedback from all city areas. We can best assess how to maximize our gains & cut down on losses, as well as discover unknown determining factors like public/personal transport compared to Pyber services. 
